@@ -82,19 +82,6 @@
         },
 
         {
-            "label": "build-prepare-Learning01",
-            "command": "dotnet",
-            "type": "process",
-            "args": [
-                "build",
-                "${workspaceFolder}/prepare/Learning01/Learning01.csproj",
-                "/property:GenerateFullPaths=true",
-                "/consoleloggerparameters:NoSummary"
-            ],
-            "problemMatcher": "$msCompile"
-        },
-
-        {
             "label": "build-prepare-Learning02",
             "command": "dotnet",
             "type": "process",
@@ -140,19 +127,6 @@
             "args": [
                 "build",
                 "${workspaceFolder}/prepare/Learning05/Learning05.csproj",
-                "/property:GenerateFullPaths=true",
-                "/consoleloggerparameters:NoSummary"
-            ],
-            "problemMatcher": "$msCompile"
-        },
-
-        {
-            "label": "build-prepare-Learning06",
-            "command": "dotnet",
-            "type": "process",
-            "args": [
-                "build",
-                "${workspaceFolder}/prepare/Learning06/Learning06.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

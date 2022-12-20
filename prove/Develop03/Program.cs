@@ -1,12 +1,9 @@
 using System;
 
-namespace Develop03
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello Develop03 World!");
-        }
+        Console.WriteLine("Hello Develop03 World!");
     }
 }

@@ -1,12 +1,9 @@
 using System;
 
-namespace Foundation3
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello Foundation3 World!");
-        }
+        Console.WriteLine("Hello Foundation3 World!");
     }
 }

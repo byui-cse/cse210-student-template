@@ -82,20 +82,7 @@
         },
 
         {
-            "name": "Learning 01",
-            "type": "coreclr",
-            "request": "launch",
-            "preLaunchTask": "build-prepare-Learning01",
-            "program": "${workspaceFolder}/prepare/Learning01/bin/Debug/net6.0/Learning01.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}/prepare/Learning01",
-            "console": "integratedTerminal",
-            "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
-        },
-
-        {
-            "name": "Learning 02",
+            "name": "Learning 02 (Resume)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-prepare-Learning02",
@@ -108,7 +95,7 @@
         },
 
         {
-            "name": "Learning 03",
+            "name": "Learning 03 (Fraction)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-prepare-Learning03",
@@ -121,7 +108,7 @@
         },
 
         {
-            "name": "Learning 04",
+            "name": "Learning 04 (Homework)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-prepare-Learning04",
@@ -134,26 +121,13 @@
         },
 
         {
-            "name": "Learning 05",
+            "name": "Learning 05 (Shapes)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-prepare-Learning05",
             "program": "${workspaceFolder}/prepare/Learning05/bin/Debug/net6.0/Learning05.dll",
             "args": [],
             "cwd": "${workspaceFolder}/prepare/Learning05",
-            "console": "integratedTerminal",
-            "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
-        },
-
-        {
-            "name": "Learning 06",
-            "type": "coreclr",
-            "request": "launch",
-            "preLaunchTask": "build-prepare-Learning06",
-            "program": "${workspaceFolder}/prepare/Learning06/bin/Debug/net6.0/Learning06.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}/prepare/Learning06",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
@@ -225,7 +199,7 @@
         },
 
         {
-            "name": "Foundation 1 (Abstraction)",
+            "name": "Foundation 1 (YouTube)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-final-Foundation1",
@@ -238,7 +212,7 @@
         },
 
         {
-            "name": "Foundation 2 (Encapsulation)",
+            "name": "Foundation 2 (Products)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-final-Foundation2",
@@ -251,7 +225,7 @@
         },
 
         {
-            "name": "Foundation 3 (Inheritance)",
+            "name": "Foundation 3 (Events)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-final-Foundation3",
@@ -264,7 +238,7 @@
         },
 
         {
-            "name": "Foundation 4 (Polymorphism)",
+            "name": "Foundation 4 (Exercise)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-final-Foundation4",

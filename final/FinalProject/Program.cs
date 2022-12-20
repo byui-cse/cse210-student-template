@@ -1,12 +1,9 @@
 using System;
 
-namespace FinalProject
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello FinalProject World!");
-        }
+        Console.WriteLine("Hello FinalProject World!");
     }
 }
